@@ -1,2 +1,3 @@
 class Dog 
-  d
+  def bark
+    
